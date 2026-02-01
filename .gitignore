@@ -8,7 +8,6 @@ __pycache__/
 *.index
 
 # VSCode editor configuration
-.vscode/
 
 # Runtime and download caches
 .infinity_cache/
@@ -33,3 +32,7 @@ servers/*/server.yaml
 
 # Python package metadata
 src/*.egg-info/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
