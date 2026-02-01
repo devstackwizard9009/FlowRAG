@@ -53,27 +53,11 @@ FlowRAG is the first lightweight RAG development framework based on the [Model C
 
 Designed for research exploration and industrial prototyping, FlowRAG standardizes core RAG components (Retriever, Generation, etc.) as independent **MCP Servers**, combined with the powerful workflow orchestration capabilities of the **MCP Client**. Developers can achieve precise orchestration of complex control structures such as conditional branches and loops simply through YAML configuration.
 
-<p align="center">
-  <picture>
-    <img alt="FlowRAG" src="./docs/architecture.png" width=90%>
-  </picture>
-</p>
-
 ### FlowRAG UI
 
 FlowRAG UI transcends the boundaries of traditional chat interfaces, evolving into a visual RAG Integrated Development Environment (IDE) that combines orchestration, debugging, and demonstration.
 
 The system features a powerful built-in Pipeline Builder that supports bidirectional real-time synchronization between "Canvas Construction" and "Code Editing," allowing for granular online adjustments of pipeline parameters and prompts. Furthermore, it introduces an Intelligent AI Assistant to empower the entire development lifecycle, from pipeline structural design to parameter tuning and prompt generation. Once constructed, logic flows can be converted into interactive dialogue systems with a single click. The system seamlessly integrates Knowledge Base Management components, enabling users to build custom knowledge bases for document Q&A. This truly realizes a one-stop closed loop, spanning from underlying logic construction and data governance to final application deployment.
-
-<!-- <p align="center">
-  <picture>
-    <img alt="FlowRAG_UI" src="./docs/chat_menu.png" width=80%>
-  </picture>
-</p> -->
-
-
-https://github.com/user-attachments/assets/fcf437b7-8b79-42f2-bf4e-e3b7c2a896b9
-
 
 ### Key Highlights
 
